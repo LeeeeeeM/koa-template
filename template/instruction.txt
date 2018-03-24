@@ -1,0 +1,5 @@
+1.修改端口在server里面
+
+2.nuxt generate编译静态文件
+
+3.pm2管理进程 pm2 start npm --name 'xxx' -- start(npm config)
